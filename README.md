@@ -4,6 +4,8 @@
 
 This app will allows the developer(s) to login with github and get a pass code. Use case for this would be in the workplace where they require a code at the door/gate to get inside the building.
 
+![2023-03-16_18-57](https://user-images.githubusercontent.com/67952319/225829699-fd66eb87-867d-45a5-ab6f-47e1cde7bc54.png)
+
 
 ## How to run
 
